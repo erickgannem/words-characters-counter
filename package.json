@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-streams",
+  "name": "words-characters-counter",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Erick Gannem <erickgannem@gmail.com>",
